@@ -1,0 +1,3 @@
+pour le script python : 3610 ms
+pour java : 2935 ms
+pour le script shell crunch.sh :2200 ms
